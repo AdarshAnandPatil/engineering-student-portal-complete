@@ -1,0 +1,8 @@
+{
+  "name": "engineering-student-portal",
+  "version": "1.0.0",
+  "description": "Engineering Student Portal with e-library, results, placement resources and student tools",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.21.2", "cors": "^2.8.5" }
+}
